@@ -1,16 +1,5 @@
 # Git Lab 4 – How to Use Git Effectively
 
-## Name
-
-**Abhinav Kumar**
-
-## Roll Number
-
-**1024031186**
-
-## Course
-
-AI for Engineers
 
 ---
 
